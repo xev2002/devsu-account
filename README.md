@@ -32,23 +32,23 @@ Contiene la información de un movimiento para pruebas de:
 ## Uso
 -  `POST http://localhost:4444/api/cuentas`  
 El archivo para el body se encuentra en:  
-springboot-test-devsu-2-account\src\test\resources\data\cuenta.json
+\src\test\resources\data\cuenta.json
 - `PUT http://localhost:4444/api/cuentas/1001`  
 El archivo para el body se encuentra en:  
-springboot-test-devsu-2-account\src\test\resources\data\cuentaPut.json
+\src\test\resources\data\cuentaPut.json
 - `PATCH http://localhost:4444/api/cuentas/1001`  
 El archivo para el body se encuentra en:  
-springboot-test-devsu-2-account\src\test\resources\data\cuentaPatch.json
+\src\test\resources\data\cuentaPatch.json
 - `GET http://localhost:4444/api/cuentas`  
 Obtener todas las cuentas, el id del cliente ya está en el token por ende no es necesario colocarlo en el endpoint
 - `GET http://localhost:4444/api/cuentas/1001`  
 Obtener una cuenta en especifico, el id del cliente ya está en el token por ende no es necesario colocarlo en el endpoint
 -  `POST http://localhost:4444/api/movimientos/1001`  
 El archivo para el body se encuentra en:  
-springboot-test-devsu-2-account\src\test\resources\data\movimiento.json
+\src\test\resources\data\movimiento.json
 -  `PUT http://localhost:4444/api/movimientos/1001/1`  
 El archivo para el body se encuentra en:  
-springboot-test-devsu-2-account\src\test\resources\data\movimientoPut.json
+\src\test\resources\data\movimientoPut.json
 - `GET http://localhost:4444/api/movimientos/1001`  
 Obtener todos los movimientos de una cuenta
 - `GET http://localhost:4444/api/movimientos/1001/1`  
