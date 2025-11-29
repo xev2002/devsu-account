@@ -1,0 +1,7 @@
+{
+  "numeroCuenta": 1001,
+  "tipoCuenta": "CORRIENTE",
+  "saldoInicial": 6000.0,
+  "estado": true,
+  "clientId": 2002
+}

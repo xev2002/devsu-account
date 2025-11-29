@@ -1,0 +1,11 @@
+{
+  "identificacion": 2002,
+  "nombre": "Carlos Diaz",
+  "genero": "MASCULINO",
+  "edad": 28,
+  "direccion": "Av 45",
+  "telefono": "3213334444",
+  "clientId": 2002,
+  "contrasena": "12345",
+  "estado": true
+}
